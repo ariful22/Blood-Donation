@@ -1,0 +1,28 @@
+@media screen  and (max-width:500px) {
+   .modal-title{
+       font-size:20px;
+	   text-align:center;
+    }
+	.learn_more2.first{
+		border-right:none!important;
+	}
+}
+@media screen  and (max-width:763px) {
+	.learn_more2.first{
+		border-right:none!important;
+	}
+
+}
+@media screen  and (max-width:479px) {
+	.align{
+		max-width:479px;
+                  margin:0 auto;
+
+	}
+.select_opt{
+      display:inline;
+     padding-left:0px;
+     margin-left:0px
+
+}
+}
